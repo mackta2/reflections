@@ -17,3 +17,5 @@ I can create branches for differing types of changes/ additions to my files with
 How would branches help?  It helps me to keep track of organizaitonal changes.
 
 How do the diagrams help you visualize the branch structure?  Helps to to keep track of major changes or categories and commits within those categories.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?  It depends on what you want to accomplish.  Depending on where you are operating: either a local repository or a Git Hub repository.  Also, forks and clones are used exclusively on Git Hub.  

@@ -23,3 +23,7 @@ Describe the differences between forks, clones, and branches. When would you use
 Now that you've seen how to update your local copy of remote branches, and how to combine conflicting changes from multiple people, add the following question and your thoughts on it to your reflections file:
 
 What is the benefit of having a copy of the last known state of the remote stored locally?  I will know the state of my local branch and be able to compare it with branches on Git Hub.  If I am off line, I will never lose a history of changes, additions or deletions.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+It would be harder to keep up with the edits by various users.  No sense of timeline changes.
